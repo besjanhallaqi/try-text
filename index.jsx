@@ -14,7 +14,7 @@ function TryText({ title, color, text }) {
       <div>
         <h1 style={{ color: color }}>{title}</h1>
         <p style={{ color: color }}>
-          Text result: <span id="asd">{text}</span>
+          Text result : <span id="asd">{text}</span>
         </p>
       </div>
     </div>
